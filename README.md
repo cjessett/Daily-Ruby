@@ -2,7 +2,7 @@
 
 ## Daily Ruby is a Sinatra implemention of Ruby Methods Daily
 
-### All the credit to Fab Mackojc
+### All the credit to @fab
 
 ### ToDo
 
