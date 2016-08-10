@@ -55,17 +55,14 @@ end
 
 def header
   "<div class='header'>
-    <h1>Ruby Methods Daily</h1>
-    <p class='tagline'>Different Ruby methods in your inbox each day</p>
+    <h1>Daily Ruby</h1>
   </div>"
 end
 
 def footer
   "<div class='footer'>
-    <p>Ruby Methods Daily is a service put together by <a href='https://github.com/fab'>Fab Mackojc</a></p>
+    <p>Credit to <a href='https://github.com/fab'>Fab Mackojc</a> for his <a href='https://github.com/fab/ruby-methods-daily'>Ruby Methods Daily</a> service</p>
     <p>Credit to <a href='http://www.neurogami.com'>Neurogami</a> for rubydoc formatting</p>
-    <a href='*|LIST:SUBSCRIBE|*'>Subscribe to this list</a> | <a href='*|UPDATE_PROFILE|*'>Update your subscription preferences</a> | <a href='*|UNSUB|*'>Unsubscribe from this list</a>
-    <div class='mailchimp-logo'>*|REWARDS|*</div>
   </div>"
 end
 
